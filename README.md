@@ -1,5 +1,6 @@
-# B.1.1.529 differential predicted MHC binding and mutational CD8+ T-cell escape in silico analysis
+# In silico analysis of predicted differential MHC binding and CD8+ T-cell immune escape of SARS-CoV-2 B.1.1.529 variant mutant epitopes
 
+Preprint in Bioarxiv: https://doi.org/10.1101/2022.01.31.478157
 
 Analysis code, data and figures on the omicron MHC binding paper.
 
